@@ -11,7 +11,7 @@ Inilah tutorial lengkap membuat fitur crud menggunakan codeigniter 4.
 ## Cara Menjalankan Project
 
 - Create Database dengan nama "db_ci4" pada phpmyadmin
-- Import Database pada folder DB/db_ci4
+- Import Database pada folder DB/db_ci4 ke phpmyadmin
 - Open Project CI4
 - Jalankan command "php spark serve"
 - Done ... 
